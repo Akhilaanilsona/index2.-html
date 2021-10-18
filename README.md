@@ -41,7 +41,7 @@
              <ul>
                  <li>Reading books</li>
                  <li>listening music</li>
-                 <li>crafywotk</li>
+                 <li>craftwork</li>
              </ul>
 
             </div>
